@@ -8,7 +8,8 @@ static char *fonts[] = { "JetBrainsMono:size=13:style=Medium",
 	"FontAwesome5Free:pixelsize=13:antialias=true:autohint=true",
 	"FontAwesome5Brands:pixelsize=13:antialias=true:autohint=true",
 	"JoyPixels:pixelsize=13:antialias=true:autohint=true",
-	"Font Awesome 5 Free:style=Solid:pixelsize=13:antialias=true:autohint=true" };
+	"Font Awesome 5 Free:style=Solid:pixelsize=13:antialias=true:autohint=true"
+};
 
 static const unsigned int bgalpha = 0xe0;
 static const unsigned int fgalpha = OPAQUE;
