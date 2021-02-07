@@ -3,7 +3,7 @@
 
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
 /* -fn option overrides fonts[0]; default X11 font or font set */
-static char *fonts[] = { "JetBrainsMono:size=13:style=Medium",
+static char *fonts[] = { "JetBrainsMono:size=12:style=Medium",
 	"JoyPixels:pixelsize=13:antialias=true:autohint=true",
 	"FontAwesome5Free:pixelsize=13:antialias=true:autohint=true",
 	"FontAwesome5Brands:pixelsize=13:antialias=true:autohint=true",
